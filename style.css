@@ -5,6 +5,7 @@
     width: 100%;
     box-sizing: border-box;
     /*teste*/
+    margin: 0
 }
 header{
     background-color: #664322;
@@ -109,7 +110,7 @@ article#poesia04 h2{
 article#poesia04 h3{
     color: white;
     background-color: rgba(0, 0, 0, 0.480);
-    width: 155px;
+    width: 175px;
     margin-left: 30px;
     padding-left: 10px;
 }
