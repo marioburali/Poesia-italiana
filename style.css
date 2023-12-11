@@ -10,14 +10,16 @@ header{
     text-align: center;
     font-family: Playball, cursive;
     font-size: 2em;
+    width: auto;
 }
 section#inicio{
     background-color: #E4D5C6;
-    margin: -10px;
+    margin: 0px -10px;
     padding: 25px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
+    width: 100%;  
+    position: relative;  
    
 }
 section#inicio p{
